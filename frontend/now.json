@@ -3,6 +3,5 @@
   "builds": [
     { "src": "package.json", "use": "@now/next" }
   ],
-  "alias": "resauce.space",
   "name": "resauce.space"
 }
